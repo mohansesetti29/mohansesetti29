@@ -10,7 +10,7 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 
 * 🌍  I'm based in Rajahmundry
 * ✉️  You can contact me at [sesettimohanakrishna@gmail.com ](mailto:sesettimohanakrishna@gmail.com)
-* 🧠  I'm learning Artificial Intelligence and Machine Learning 
+* 🧠  Good at Artificial Intelligence and Machine Learning & Generative AI
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
