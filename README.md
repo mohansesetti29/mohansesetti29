@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sesetti Mohana Krishna
 I'm currently Working on AI Agents , Agentic AIs , LLMs , RAG , Vibe Coding Tools<br>I'm looking to collaborate with RAG and Agentic AI Based Solutions<br>I'm looking for help with Agentic AIs<br>I'm currently learning Agentic AIs , RAG , MCP<br>Ask me about the RAG , AI Agents 
 
 
